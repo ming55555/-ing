@@ -1,2 +1,3 @@
-# -ing
-git study
+# 如何使用github
+-管理仓库
+-管理代码
